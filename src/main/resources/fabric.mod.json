@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "verymood",
   "version": "${version}",
 
   "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "this mod does nothing thanks for asking",
   "authors": [
-    "Me!"
+    "ARIA GANG GANG"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.cooler.verymood.CoolMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "verymood.mixins.json"
   ],
 
   "depends": {
