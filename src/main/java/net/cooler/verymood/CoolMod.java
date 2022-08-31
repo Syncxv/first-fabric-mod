@@ -1,6 +1,6 @@
 package net.cooler.verymood;
 
-import net.cooler.verymood.coolitem.ModItemsGang;
+import net.cooler.verymood.item.ModItemsGang;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
