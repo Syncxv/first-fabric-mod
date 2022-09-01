@@ -1,5 +1,6 @@
 package net.cooler.verymood;
 
+import net.cooler.verymood.block.ModBlocksGang;
 import net.cooler.verymood.item.ModItemsGang;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -12,5 +13,6 @@ public class CoolMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItemsGang.registerModShit();
+		ModBlocksGang.registerModBlockSheet();
 	}
 }

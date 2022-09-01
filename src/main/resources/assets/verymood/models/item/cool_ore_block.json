@@ -1,0 +1,6 @@
+{
+  "parent": "verymood:block/cool_ore_block",
+  "textures": {
+    "layer0": "verymood:item/cool_ore_block"
+  }
+}

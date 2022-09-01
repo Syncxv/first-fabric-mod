@@ -1,5 +1,8 @@
 {
-  "item.verymood.hehe": "Bruh moment",
-  "item.verymood.seconditem": "WHY MAN",
+  "item.verymood.cool_ingot": "Cool Ingot",
+  "item.verymood.cool_ore_raw": "Raw Cool Ore",
+  "block.verymood.cool_block": "Cool Block",
+  "block.verymood.cool_ore_block": "Block of Cool Ore",
   "item.verymood.bruh": "Cool Custom Item"
+
 }

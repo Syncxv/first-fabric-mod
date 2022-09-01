@@ -10,9 +10,9 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItemsGang {
 
-    public static Item bruh = registerItem("hehe", new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static Item COOL_ORE_RAW = registerItem("cool_ore_raw", new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
-    public static Item secondItem = registerItem("seconditem", new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static Item COOL_INGOT = registerItem("cool_ingot", new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
     public static Item customItem = registerItem("bruh", new CoolCustomItem(new FabricItemSettings().group(ItemGroup.MISC)));
 

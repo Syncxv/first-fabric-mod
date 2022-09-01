@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "verymood:item/hehe"
+    "layer0": "verymood:item/cool_ore_raw"
   }
 }
